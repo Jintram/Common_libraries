@@ -1,4 +1,4 @@
-function saveLegendToImage(figHandle, legHandle, subHandles, fileName, fileType)
+function figHandle=saveLegendToImage(figHandle, legHandle, subHandles, fileName, fileType)
 % source: https://stackoverflow.com/questions/18117664/how-can-i-show-only-the-legend-in-matlab
 % written by user Franz Wurst
 %
